@@ -1,0 +1,5 @@
+My typical Makefile build system, supporting jumbo compilation, multiple targets, and typical dependency creation.
+
+To use, create a module.sources, module.defs, module.ldopt into your source dir (check the example apps), and add your target at the top of the Makefile. The Makefile does everything else for you.
+
+Enjoy.
